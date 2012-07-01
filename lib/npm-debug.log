@@ -1,0 +1,35 @@
+0 info it worked if it ends with ok
+1 verbose cli [ '/home/tahu/.nvm/v0.8.1/bin/node',
+1 verbose cli   '/home/tahu/.nvm/v0.8.1/bin/npm',
+1 verbose cli   'install',
+1 verbose cli   '-g' ]
+2 info using npm@1.1.33
+3 info using node@v0.8.1
+4 verbose config file /home/tahu/.npmrc
+5 verbose config file /home/tahu/.nvm/v0.8.1/etc/npmrc
+6 verbose config file /home/tahu/.nvm/v0.8.1/lib/node_modules/npm/npmrc
+7 verbose read json /home/tahu/.nvm/v0.8.1/lib/package.json
+8 verbose read json /home/tahu/.nvm/v0.8.1/lib/package.json
+9 verbose cache add [ '.', null ]
+10 silly cache add name=undefined spec="." args=[".",null]
+11 verbose parsed url { pathname: '.', path: '.', href: '.' }
+12 verbose lock . /home/tahu/.npm/3a52ce780950d4d969792a2559cd519d7ee8c727--.lock
+13 verbose read json package.json
+14 error addLocal Could not install .
+15 error Error: ENOENT, open 'package.json'
+15 error  { [Error: ENOENT, open 'package.json'] errno: 34, code: 'ENOENT', path: 'package.json' }
+16 error You may report this log at:
+16 error     <http://github.com/isaacs/npm/issues>
+16 error or email it to:
+16 error     <npm-@googlegroups.com>
+17 error System Linux 3.2.0-26-generic
+18 error command "/home/tahu/.nvm/v0.8.1/bin/node" "/home/tahu/.nvm/v0.8.1/bin/npm" "install" "-g"
+19 error cwd /home/tahu/Desktop/CODINGSUMMIT/a/lib
+20 error node -v v0.8.1
+21 error npm -v 1.1.33
+22 error path package.json
+23 error code ENOENT
+24 error message ENOENT, open 'package.json'
+25 error errno 34
+26 error 34 errno
+27 verbose exit [ 34, true ]

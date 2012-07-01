@@ -1,0 +1,27 @@
+{
+    "name": "npmedge",
+    "version": "0.0.1",
+    "description": "Lists packages whose latest version does not satisfy the specification in package.json",
+    "homepage": "https://github.com/tahu/npmedge",
+    "author": "Vytautas Jakutis <vytautas@jakut.is> (http://jakut.is/)",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/tahu/npmedge"
+    },
+    "main": "./lib/main",
+    "bin": {
+        "npmedge": "./bin/npmedge"
+    },
+    "license": "MIT",
+    "dependencies": {
+        "semver": "1.0.x",
+        "step": "0.0.x",
+        "optimist": "0.3.x",
+        "npm": "1.1.x"
+    },
+    "devDependencies": {},
+    "optionalDependencies": {},
+    "engines": {
+        "node": "*"
+    }
+}
