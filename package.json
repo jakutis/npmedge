@@ -1,7 +1,7 @@
 {
     "name": "npmedge",
-    "version": "0.0.1",
-    "description": "Lists packages whose latest version does not satisfy the specification in package.json",
+    "version": "0.0.2",
+    "description": "Lists packages whose latest available version does not satisfy the specification in package.json",
     "homepage": "https://github.com/tahu/npmedge",
     "author": "Vytautas Jakutis <vytautas@jakut.is> (http://jakut.is/)",
     "repository": {
