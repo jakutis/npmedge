@@ -2,6 +2,7 @@
     "name": "npmedge",
     "version": "0.0.2",
     "description": "Lists packages whose latest available version does not satisfy the specification in package.json",
+    "keywords": ["latest", "version", "packages", "package", "update", "outdated", "discover", "new"],
     "homepage": "https://github.com/tahu/npmedge",
     "author": "Vytautas Jakutis <vytautas@jakut.is> (http://jakut.is/)",
     "repository": {
