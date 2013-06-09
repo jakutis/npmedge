@@ -15,11 +15,11 @@
     },
     "license": "MIT",
     "dependencies": {
-        "semver": "1.0.x",
-        "async": "0.1.x",
-        "valentine": "1.5.x",
-        "optimist": "0.3.x",
-        "npm": "1.1.x"
+        "semver": "1.1.x",
+        "async": "0.2.x",
+        "valentine": "1.6.x",
+        "optimist": "0.5.x",
+        "npm": "1.2.x"
     },
     "devDependencies": {},
     "optionalDependencies": {},
