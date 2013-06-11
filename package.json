@@ -5,6 +5,7 @@
     "keywords": ["latest", "version", "packages", "package", "update", "outdated", "discover", "new", "upgrade"],
     "homepage": "https://jakut.is/git/NPMEDGE/about/",
     "author": "Vytautas Jakutis <vytautas@jakut.is> (http://jakut.is/)",
+    "bugs": "mailto:vytautas@jakut.is",
     "repository": {
         "type": "git",
         "url": "https://jakut.is/git/NPMEDGE"
