@@ -2,6 +2,10 @@
 
 Just run `npm install -g npmedge` to install globally, or `npm install npmedge` to install locally.
 
+![npm stats](https://nodei.co/npm/msgd.png)
+
+![npm download stats](https://nodei.co/npm-dl/msgd.png?months=9)
+
 # Usage
 
 Lists packages whose latest available version does not satisfy the specification in package.json.
