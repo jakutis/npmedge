@@ -2,9 +2,9 @@
 
 Just run `npm install -g npmedge` to install globally, or `npm install npmedge` to install locally.
 
-![npm stats](https://nodei.co/npm/msgd.png)
+![npm stats](https://nodei.co/npm/npmedge.png)
 
-![npm download stats](https://nodei.co/npm-dl/msgd.png?months=9)
+![npm download stats](https://nodei.co/npm-dl/npmedge.png?months=9)
 
 # Usage
 
