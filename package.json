@@ -6,6 +6,9 @@
     "homepage": "https://jakut.is/git/NPMEDGE/about/",
     "author": "Vytautas Jakutis <vytautas@jakut.is> (http://jakut.is/)",
     "bugs": "mailto:vytautas@jakut.is",
+    "contributors": [
+      "Jakob Mattsson <jakob.mattsson@gmail.com> (jakobmattsson.se)"
+    ],
     "repository": {
         "type": "git",
         "url": "https://jakut.is/git/NPMEDGE"
@@ -16,7 +19,7 @@
     },
     "license": "MIT",
     "dependencies": {
-        "semver": "1.1.x",
+        "semver": "2.1.x",
         "async": "0.2.x",
         "valentine": "1.6.x",
         "optimist": "0.5.x",
