@@ -1,7 +1,7 @@
 {
     "name": "npmedge",
     "version": "0.1.4",
-    "description": "Lists packages whose latest available version does not satisfy the specification in package.json",
+    "description": "Lists packages whose latest available version does not satisfy the specification in package.json.",
     "keywords": ["latest", "version", "packages", "package", "update", "outdated", "discover", "new", "upgrade"],
     "homepage": "https://jakut.is/git/NPMEDGE/about/",
     "author": "Vytautas Jakutis <vytautas@jakut.is> (http://jakut.is/)",
