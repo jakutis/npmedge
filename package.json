@@ -14,9 +14,7 @@
         "url": "https://jakut.is/git/NPMEDGE"
     },
     "main": "./lib/main",
-    "bin": {
-        "npmedge": "./bin/npmedge"
-    },
+    "bin": "cli.js",
     "license": "GPL-3.0",
     "dependencies": {
         "semver": "2.1.x",
