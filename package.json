@@ -17,7 +17,7 @@
     "bin": {
         "npmedge": "./bin/npmedge"
     },
-    "license": "MIT",
+    "license": "GPL-3.0",
     "dependencies": {
         "semver": "2.1.x",
         "async": "0.2.x",
