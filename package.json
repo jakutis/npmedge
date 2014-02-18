@@ -3,15 +3,15 @@
     "version": "0.1.5",
     "description": "Lists packages whose latest available version does not satisfy the specification in package.json.",
     "keywords": ["latest", "version", "packages", "package", "update", "outdated", "discover", "new", "upgrade"],
-    "homepage": "https://jakut.is/git/NPMEDGE/about/",
-    "author": "Vytautas Jakutis <vytautas@jakut.is> (http://jakut.is/)",
-    "bugs": "mailto:vytautas@jakut.is",
+    "homepage": "https://www.npmjs.org/package/npmedge",
+    "author": "Vytautas Jakutis <vytautas@jakut.is> (https://jakut.is/)",
+    "bugs": "https://github.com/jakutis/npmedge/issues",
     "contributors": [
       "Jakob Mattsson <jakob.mattsson@gmail.com> (jakobmattsson.se)"
     ],
     "repository": {
         "type": "git",
-        "url": "https://jakut.is/git/NPMEDGE"
+        "url": "https://github.com/jakutis/npmedge"
     },
     "main": "./lib/main",
     "bin": "cli.js",
