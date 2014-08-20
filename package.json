@@ -1,6 +1,6 @@
 {
     "name": "npmedge",
-    "version": "0.2.0",
+    "version": "0.2.1",
     "description": "Lists packages whose latest available version does not satisfy the specification in package.json.",
     "keywords": ["latest", "version", "packages", "package", "update", "outdated", "discover", "new", "upgrade"],
     "homepage": "https://www.npmjs.org/package/npmedge",
